@@ -1,0 +1,15 @@
+{
+    "loss": 0.07093729823827744,
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "specificity": 1.0,
+    "f1_score": 1.0,
+    "confusion_matrix": {
+        "true_positive": 45,
+        "true_negative": 48,
+        "false_positive": 0,
+        "false_negative": 0
+    },
+    "roc_auc": 1.0
+}
